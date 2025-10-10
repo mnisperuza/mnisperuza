@@ -2,6 +2,9 @@
 
 **Student | 10th Grade**
 
+***He/Him***
+-**Straight**
+
 ---
 
 ## About Me
@@ -27,7 +30,7 @@ I’m passionate about Artificial Intelligence and development — especially cr
 ## Projects
 
 - **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom)** – a lightweight GPT-style model built from scratch, focused on core transformer mechanics and efficiency.  
-- **[JVIS]** – an AI assistant framework capable of listening and speaking through TTS (**Text to Speech**) and STT, with the ability to connect to various APIs for extended functionality. (Public in the future)  
+- ***JVIS*** – an AI assistant framework capable of listening and speaking through TTS (**Text to Speech**) and STT(**Speech to Text**), with the ability to connect to various APIs for extended functionality. (Public in the future)  
 - ***Chroma*** – Designed with high ethical restrictions and a professional memory system for contextual recall.  
   Chroma’s purpose is to maintain strong behavioral boundaries while being capable of adaptive learning and responsible response handling.
 
