@@ -1,53 +1,60 @@
 # Matias Nisperuza
 
-**Student | 10th Grade**
-
+**Student | 10th Grade**  
 ***He/Him***
--**Straight**
 
 ---
 
-## About Me
-Hi, I am Matias Nisperuza, a 16-year-old Colombian student.  
-I’m passionate about Artificial Intelligence and development — especially creating frameworks and models that explore AI capabilities and behavior,don't let my age fool you, If I don't know something, I will learn it. I am Always learning, its what I love most. 
+## 👋 About Me
+Hi, I’m **Matias Nisperuza**, a 16-year-old student from Colombia.  
+I’m passionate about **Machine Learning** and **software development**, especially building frameworks and models that explore how intelligent systems learn and behave.  
+My age doesn’t define what I know — and if there’s something I don’t know yet, I’ll learn it. I’m constantly learning; it’s what I love most.
 
 ---
 
-## Skills
+## 🧠 Skills
 
-**Programming Languages:** Python, Starting up JavaScript, Basic HTML, CSS. (***Learning***)  
-**Tools:** GitHub. 
-**AI / Machine Learning:** PyTorch, Transformers, Custom AI Architectures. 
-**Web Development:** Flask.
-**Other Skills:** Integration of Digital Contents (SENA), Creative Software (Adobe Illustrator, Krita, Blender).
+**Programming Languages:** Python, learning JavaScript, basic HTML & CSS  
+**Tools:** Git & GitHub  
+**AI / Machine Learning:** PyTorch, Transformers, Custom AI Architectures  
+**Web Development:** Flask  
+**Creative Software:** Adobe Illustrator, Krita, Blender  
+**Other:** Integration of Digital Contents (SENA)
 
-## Qualifications around dev environment:
-- English:
-EF SET 90 Min Test: B2- Upper Intermediate:[EF SET 90-min Certificate – B2- Upper Intermediate (59/100)](./ef-set-B2.pdf)
-Ef SET 50 Min Test: C2- Proficient:[EF SET 50-min Certificate – C2- Proficient (73/100)](./ef-set-C2.pdf)
 ---
 
-## Projects
+## 📜 Qualifications
 
-- **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom)** – a lightweight GPT-style model built based on Hyperparameters, focused on core transformer mechanics and efficiency.  
-- ***JVIS*** – an AI assistant framework capable of listening and speaking through TTS (**Text to Speech**) and STT(**Speech to Text**), with the ability to connect to various APIs for extended functionality. 
-- ***Chroma*** – Designed with high ethical restrictions and a professional memory system for contextual recall.  
-  Chroma’s purpose is to maintain strong behavioral boundaries while being capable of adaptive learning and responsible response handling.
+**English Proficiency:**  
+- EF SET 90-min Test — **B2 Upper-Intermediate** ([Certificate](./ef-set-B2.pdf))  
+- EF SET 50-min Test — **C2 Proficient** ([Certificate](./ef-set-C2.pdf))
 
-***--More Projects in the future***
 ---
-## 🏆 Side awards
+
+## 🧩 Projects
+
+- **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom)** — a lightweight GPT-style model focused on hyperparameter tuning, core transformer mechanics, and efficiency.  
+- **JVIS** — an AI assistant framework capable of listening and speaking through **TTS (Text-to-Speech)** and **STT (Speech-to-Text)**, with multi-API connectivity for extended functionality.  
+- **Chroma** — designed with strong ethical restrictions and a professional memory system for contextual recall, maintaining adaptive yet responsible behavior.
+
+> *More projects coming soon.*
+
+---
+
+## 🏆 Side Awards
 
 <p align="center">
   <strong>Google – Machine Learning Crash Course</strong><br>
-  <em> I Completed the official Google ML Crash Course, earning recognition for foundational machine learning concepts.</em>
+  <em>Completed the official Google ML Crash Course, earning recognition for foundational machine learning concepts.</em>
 </p>
 
 <p align="center">
   <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="220" height="220">
 </p>
 
-## Contact me
+*I am still stuying, In pages like **Udemy** and **Hugging Face**, so I expect my abilities to continue growing.*
+---
 
+## 📬 Contact
 
-- Email: **mnisperuza1102@gmail.com**
+- **Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
