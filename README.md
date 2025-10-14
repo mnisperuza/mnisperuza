@@ -23,8 +23,8 @@ I’m passionate about Artificial Intelligence and development — especially cr
 
 ## Qualifications around dev environment:
 - English:
-[EF SET 90-min Certificate – B2- Upper Intermediate (59/100)](./ef-set-B2.pdf)
-[EF SET 50-min Certificate – C2- Proficient (73/100)](./ef-set-C2.pdf)
+EF SET 90 Min Test: B2- Upper Intermediate:[EF SET 90-min Certificate – B2- Upper Intermediate (59/100)](./ef-set-B2.pdf)
+Ef SET 50 Min Test: C2- Proficient:[EF SET 50-min Certificate – C2- Proficient (73/100)](./ef-set-C2.pdf)
 ---
 
 ## Projects
