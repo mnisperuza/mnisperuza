@@ -14,7 +14,7 @@ My age doesn’t define what I know — and if there’s something I don’t kno
 
 ## ✏️ Skills
 
-**Programming Languages:** Python, learning JavaScript, basic HTML & CSS  
+**Programming Languages:** Python(*Basic and Advanced*), learning JavaScript, Mastering HTML & CSS  
 **Tools:** Git & GitHub  
 **AI / Machine Learning:** PyTorch, Transformers, Custom AI Architectures  
 **Web Development:** Flask  
@@ -23,7 +23,7 @@ My age doesn’t define what I know — and if there’s something I don’t kno
 
 ---
 
-## Qualifications
+## 💼 Qualifications
 
 **English Proficiency:**  
 - EF SET 90-min Test — **B2 Upper-Intermediate** ([Certificate](./ef-set-B2.pdf))  
@@ -52,7 +52,7 @@ My age doesn’t define what I know — and if there’s something I don’t kno
   <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="220" height="220">
 </p>
 
-# Still growing
+<strong>Still growing</strong>
 
 > *I am still stuying, In pages like udemy and Hugging face, so I expect my abilities to continue growing.*
 ---
