@@ -54,7 +54,7 @@ My age doesn’t define what I know — and if there’s something I don’t kno
 
 <strong>Still growing</strong>
 
-> *I am still stuying, In pages like udemy and Hugging face, so I expect my abilities to continue growing.*
+> *I am still stuying, In pages like Udemy and Hugging face, so I expect my abilities to continue growing.*
 ---
 
 ## 📬 Contact
