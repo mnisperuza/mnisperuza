@@ -35,7 +35,16 @@ I’m passionate about Artificial Intelligence and development — especially cr
   Chroma’s purpose is to maintain strong behavioral boundaries while being capable of adaptive learning and responsible response handling.
 
 ---
+## 🏆 Certificates & Achievements
 
+<p align="center">
+  <strong>Google – Machine Learning Crash Course</strong><br>
+  <em>Completed the official Google ML Crash Course, earning recognition for foundational machine learning concepts and TensorFlow practice.</em>
+</p>
+
+<p align="center">
+  <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="220" height="220">
+</p>
 ## Contact
 
 
