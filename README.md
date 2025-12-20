@@ -45,7 +45,8 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ---
 
 ## 🧩 Personal Projects
-**[HCGK Kernels]:https://github.com/mnisperuza/hcgk-kernels** : Independent kernel development projects focused on OOM failsafe and performance.
+
+**[HCGK Kernels](https://github.com/mnisperuza/hcgk-kernels):** Independent kernel development projects focused on OOM failsafe and performance.
 **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
 ---
 
