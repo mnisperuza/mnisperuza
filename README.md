@@ -35,7 +35,6 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ### 🤖 AI & Technical
 **IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [[Certificate]](./Coursera_HYH527T4K83P.pdf)
 * **Google:** Machine Learning Crash Course (Foundational Concepts)
-* **SENA:** Integration of Digital Contents
 
 ### 🤝 Professional & Soft Skills
 **IBM:** Developing Interpersonal Skills (Oct 2025)  [[Certificate]](./Coursera_7WCB83WLF7VM.pdf)
@@ -54,7 +53,7 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 
 ## 🧩 Personal Projects
 
-**[HCGK Kernels](https://github.com/mnisperuza/hcgk-kernels):** Independent kernel development projects focused on OOM failsafe and performance, install via PyPI.org with *pip install hcgk-kernel*
+**[HCGK Kernels](https://github.com/mnisperuza/hcgk-kernels):** Independent kernel development projects focused on OOM failsafe and performance, install via PyPI.org with *pip install hcgk-kernel*.
 
 **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
 
