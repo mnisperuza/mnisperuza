@@ -1,63 +1,62 @@
 # Matias Nisperuza
-
-**Student | 10th Grade**  
-***He/Him***
+**Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Researcher | Developer*
 
 ---
 
 ## 👋 About Me
-Hi, I’m **Matias Nisperuza**, a 16-year-old student from Colombia.  
-I’m passionate about **Machine Learning** and **software development**, especially building frameworks and models that explore how intelligent systems learn and behave.  
-My age doesn’t define what I know — and if there’s something I don’t know yet, I’ll learn it. I’m constantly learning; it’s what I love most.
+I’m **Matias Nisperuza**, a developer from Colombia focused on the internal mechanics of intelligence. As the founder of **Biwa Industries**, I specialize in building proprietary system architectures and advanced model orchestration logic.
+
+I believe technical depth is driven by curiosity, not age. If a system exists, I want to understand its core—if it doesn't, I’ll build it.
 
 ---
 
-## ✏️ Skills
-
-**Programming Languages:** Python(*Basic and Advanced*), learning JavaScript, Mastering HTML & CSS  
-**Tools:** Git & GitHub  
-**AI / Machine Learning:** PyTorch, Transformers, Custom AI Architectures  
-**Web Development:** Flask  
-**Creative Software:** Adobe Illustrator, Krita, Blender  
-**Other:** Integration of Digital Contents (SENA)
+## 🚀 Future Vision: My Dream
+My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am working to bridge the gap between robust, scalable web architectures and the cutting-edge frontiers of Artificial Intelligence. I don't just want to use AI; I want to engineer the environments where it lives and thrives.
 
 ---
 
-## 💼 Qualifications
-
-**English Proficiency:**  
-- EF SET 90-min Test — **B2 Upper-Intermediate** ([Certificate](./ef-set-B2.pdf))  
-- EF SET 50-min Test — **C2 Proficient** ([Certificate](./ef-set-C2.pdf))
-
----
-
-## 🧩 Projects
-
-- **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom)** — a lightweight GPT-style model focused on hyperparameter tuning, core transformer mechanics, and efficiency.  
-- **JVIS** — an AI assistant framework capable of listening and speaking through **TTS (Text-to-Speech)** and **STT (Speech-to-Text)**, with multi-API connectivity for extended functionality.  
-- **Chroma** — designed with strong ethical restrictions and a professional memory system for contextual recall, maintaining adaptive yet responsible behavior.
-
-> *More projects coming soon.*
+## 🏢 Biwa Industries (Studio Professional Projects)
+* **Simula System:** A proprietary system powered by the **Cerberus Kernel**.
+* **Focus:** Custom microkernel design, orchestration logic, and quantization strategies.
+* **Status:** Private Professional Development.
 
 ---
 
-## 🏆 Side Awards
+## 🎓 Certifications & Qualifications
 
-<p align="center">
-  <strong>Google – Machine Learning Crash Course</strong><br>
-  <em>Completed the official Google ML Crash Course, earning recognition for foundational machine learning concepts.</em>
+### 🤖 AI & Technical
+* [cite_start]**IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [cite: 21, 25] [[Certificate]](./Coursera_HYH527T4K83P.pdf)
+* **Google:** Machine Learning Crash Course (Foundational Concepts)
+* **SENA:** Integration of Digital Contents
+
+### 🤝 Professional & Soft Skills
+* [cite_start]**IBM:** Developing Interpersonal Skills (Oct 2025) [cite: 3, 6] [[Certificate]](./Coursera_7WCB83WLF7VM.pdf)
+* **English Proficiency:** * EF SET 50-min — **C2 Proficient** [[Certificate]](./ef-set-C2.pdf)
+    * EF SET 90-min — **B2 Upper-Intermediate** [[Certificate]](./ef-set-B2.pdf)
+
+---
+
+## ✏️ Technical Stack
+* [cite_start]**AI/ML:** PyTorch, Transformers, Prompt Engineering[cite: 25], Custom AI Architectures.
+* **Languages:** Python (Advanced), HTML/CSS, JavaScript (Learning).
+* **Tools:** Git, GitHub, Flask, Kernel Logic.
+* **Design:** Adobe Illustrator, Blender, Krita.
+
+---
+
+## 🧩 Personal Projects
+* **HCGK Kernels:** Independent kernel development projects focused on experimental logic and performance.
+* **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
+* **JVIS:** An AI assistant framework featuring TTS/STT and multi-API connectivity.
+* **Chroma:** An ethical AI framework with a professional memory system for adaptive contextual recall.
+
+---
+
+## 📬 Connect with Me
+* **Studio Email:** [biwaindustries@gmail.com](mailto:biwaindustries@gmail.com)
+* **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
+* **X (Twitter):** [@MatiasNispX](https://x.com/MatiasNispX)
+
+<palign="center">
+  <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="150">
 </p>
-
-<p align="center">
-  <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="220" height="220">
-</p>
-
-<strong>Still growing</strong>
-
-> *I am still stuying, In pages like Udemy and Hugging face, so I expect my abilities to continue growing.*
----
-
-## 📬 Contact
-
-- **Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
-- **X:** [https://x.com/MatiasNispX](https://x.com/MatiasNispX)
