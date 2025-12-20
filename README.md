@@ -1,5 +1,5 @@
 # Matias Nisperuza
-**Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Researcher | Developer*
+**Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Student | Newbie Developer--Non official yet--*
 
 ---
 
@@ -25,12 +25,12 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ## 🎓 Certifications & Qualifications
 
 ### 🤖 AI & Technical
-* [cite_start]**IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [cite: 21, 25] [[Certificate]](./Coursera_HYH527T4K83P.pdf)
+* [cite_start]**IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [[Certificate]](./Coursera_HYH527T4K83P.pdf)
 * **Google:** Machine Learning Crash Course (Foundational Concepts)
 * **SENA:** Integration of Digital Contents
 
 ### 🤝 Professional & Soft Skills
-* [cite_start]**IBM:** Developing Interpersonal Skills (Oct 2025) [cite: 3, 6] [[Certificate]](./Coursera_7WCB83WLF7VM.pdf)
+***IBM:** Developing Interpersonal Skills (Oct 2025)  [[Certificate]](./Coursera_7WCB83WLF7VM.pdf)
 * **English Proficiency:** * EF SET 50-min — **C2 Proficient** [[Certificate]](./ef-set-C2.pdf)
     * EF SET 90-min — **B2 Upper-Intermediate** [[Certificate]](./ef-set-B2.pdf)
 
@@ -45,11 +45,8 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ---
 
 ## 🧩 Personal Projects
-* **HCGK Kernels:** Independent kernel development projects focused on experimental logic and performance.
+* **HCGK Kernels:** Independent kernel development projects focused on OOM failsafe and performance.
 * **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
-* **JVIS:** An AI assistant framework featuring TTS/STT and multi-API connectivity.
-* **Chroma:** An ethical AI framework with a professional memory system for adaptive contextual recall.
-
 ---
 
 ## 📬 Connect with Me
