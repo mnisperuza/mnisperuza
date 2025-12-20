@@ -45,7 +45,7 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ---
 
 ## ✏️ Technical Stack
-**AI/ML:** PyTorch, Transformers, Prompt Engineering[cite: 25], Custom AI Architectures.
+**AI/ML:** PyTorch, Transformers, Prompt Engineering, Custom AI Architectures.
 * **Languages:** Python (Advanced), HTML/CSS, JavaScript (Learning).
 * **Tools:** Git, GitHub, Flask, Kernel Logic.
 * **Design:** Adobe Illustrator, Blender, Krita.
