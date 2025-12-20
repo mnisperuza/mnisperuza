@@ -1,5 +1,5 @@
 # Matias Nisperuza
-**Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Student | Newbie Developer--Non official yet--*
+**Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Student | Newbie Developer---Non official yet---*
 
 ---
 
@@ -25,7 +25,7 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ## 🎓 Certifications & Qualifications
 
 ### 🤖 AI & Technical
-***IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [[Certificate]](./Coursera_HYH527T4K83P.pdf)
+**IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [[Certificate]](./Coursera_HYH527T4K83P.pdf)
 * **Google:** Machine Learning Crash Course (Foundational Concepts)
 * **SENA:** Integration of Digital Contents
 
@@ -53,7 +53,6 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 * **Studio Email:** [biwaindustries@gmail.com](mailto:biwaindustries@gmail.com)
 * **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
 * **X (Twitter):** [@MatiasNispX](https://x.com/MatiasNispX)
-
-<align="center">
+<p>
   <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="150">
 </p>
