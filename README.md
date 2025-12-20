@@ -1,6 +1,14 @@
 # Matias Nisperuza
 **Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Student | Newbie Developer---Non official yet---*
 
+### ✏️ Technical Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 ---
 
 ## 👋 About Me
