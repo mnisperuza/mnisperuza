@@ -37,7 +37,7 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ---
 
 ## ✏️ Technical Stack
-***AI/ML:** PyTorch, Transformers, Prompt Engineering[cite: 25], Custom AI Architectures.
+**AI/ML:** PyTorch, Transformers, Prompt Engineering[cite: 25], Custom AI Architectures.
 * **Languages:** Python (Advanced), HTML/CSS, JavaScript (Learning).
 * **Tools:** Git, GitHub, Flask, Kernel Logic.
 * **Design:** Adobe Illustrator, Blender, Krita.
@@ -45,14 +45,16 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ---
 
 ## 🧩 Personal Projects
-* **HCGK Kernels:** Independent kernel development projects focused on OOM failsafe and performance.
-* **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
+**[HCGK Kernels]:https://github.com/mnisperuza/hcgk-kernels** : Independent kernel development projects focused on OOM failsafe and performance.
+**[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
 ---
 
 ## 📬 Connect with Me
 * **Studio Email:** [biwaindustries@gmail.com](mailto:biwaindustries@gmail.com)
 * **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
 * **X (Twitter):** [@MatiasNispX](https://x.com/MatiasNispX)
+
+> Google Machine Learning Crash Course badge:
 <p>
   <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="150">
 </p>
