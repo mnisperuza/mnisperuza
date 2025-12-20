@@ -1,5 +1,5 @@
 # Matias Nisperuza
-**Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Student | Newbie Developer---Non official yet---*
+**Founder & Lead Architect at Biwa Industries** *Student | 11th Grade | Machine Learning Student | Fullstack AI Developer*
 
 ### ✏️ Technical Stack
 
