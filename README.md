@@ -66,5 +66,5 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 
 > Google Machine Learning Crash Course badge:
 <p>
-  <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="150">
+  <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="150"> 
 </p>
