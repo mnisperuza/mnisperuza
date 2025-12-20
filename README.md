@@ -25,19 +25,19 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ## 🎓 Certifications & Qualifications
 
 ### 🤖 AI & Technical
-* [cite_start]**IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [[Certificate]](./Coursera_HYH527T4K83P.pdf)
+***IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [[Certificate]](./Coursera_HYH527T4K83P.pdf)
 * **Google:** Machine Learning Crash Course (Foundational Concepts)
 * **SENA:** Integration of Digital Contents
 
 ### 🤝 Professional & Soft Skills
-***IBM:** Developing Interpersonal Skills (Oct 2025)  [[Certificate]](./Coursera_7WCB83WLF7VM.pdf)
+**IBM:** Developing Interpersonal Skills (Oct 2025)  [[Certificate]](./Coursera_7WCB83WLF7VM.pdf)
 * **English Proficiency:** * EF SET 50-min — **C2 Proficient** [[Certificate]](./ef-set-C2.pdf)
     * EF SET 90-min — **B2 Upper-Intermediate** [[Certificate]](./ef-set-B2.pdf)
 
 ---
 
 ## ✏️ Technical Stack
-* [cite_start]**AI/ML:** PyTorch, Transformers, Prompt Engineering[cite: 25], Custom AI Architectures.
+***AI/ML:** PyTorch, Transformers, Prompt Engineering[cite: 25], Custom AI Architectures.
 * **Languages:** Python (Advanced), HTML/CSS, JavaScript (Learning).
 * **Tools:** Git, GitHub, Flask, Kernel Logic.
 * **Design:** Adobe Illustrator, Blender, Krita.
@@ -54,6 +54,6 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 * **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
 * **X (Twitter):** [@MatiasNispX](https://x.com/MatiasNispX)
 
-<palign="center">
+<align="center">
   <img src="assets/badge.svg" alt="Google ML Crash Course Badge" width="150">
 </p>
