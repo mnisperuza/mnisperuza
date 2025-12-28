@@ -7,6 +7,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
 ---
@@ -24,8 +25,14 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 ---
 
 ## 🏢 Biwa Industries (Studio Professional Projects)
+![Biwa Industries](https://img.shields.io/badge/Biwa_Industries-5F6F64?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAA6ElEQVR42o3SMS8FURAF4G/3PiIReWhVGhGJPJVKSCSC8iUKCoUoxB/QiFbtf+g14gdQUiF50YiSTkHQzMqz1q7T3JMz98zcmbnJT2TIMYoDrOEZTxGrRXFhDPu4wkTojeZ+zGA8eK5MSujXN3EY/KPG8x1o4wj3uMYJhiOWsor+PjGJFSzjDC9Yx1sk6KWSKUMHC/GsV9zgISb9iGm0WhXGLkaQMBhnG3O4xSo6WcUaBrCLbbyjh6FIMoVTHNetYQN3WMIsLrFXKvJrQEXvW7jAOXaKiTZ9hKL/eSyWtEakP/i/kFeZvgBS0h/GkIM2hAAAAABJRU5ErkJggg==&logoColor=white)
+
+
 * **Simula System:** A proprietary system powered by the **Cerberus Kernel**.
 * **Focus:** Custom microkernel design, orchestration logic, and quantization strategies.
+
+But now, the major project is Bert, see more in **Bert CLI**: [github.com/mnisperuza/bert-cli](https://github.com/mnisperuza/bert-cli)
+
 * **Status:** Private Professional Development.
 
 ---
@@ -56,6 +63,8 @@ My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am workin
 **[HCGK Kernels](https://github.com/mnisperuza/hcgk-kernels):** Independent kernel development projects focused on OOM failsafe and performance, install via PyPI.org with *pip install hcgk-kernel*.
 
 **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
+
+**[github.com/mnisperuza/bert-cli](https://github.com/mnisperuza/bert-cli)** An always reliable AI service via CLI.
 
 ---
 
