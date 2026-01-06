@@ -1,5 +1,5 @@
 # Matias Nisperuza
-**Founder & Lead Architect at Biwa** *Student | 11th Grade | Machine Learning Student | Fullstack AI Developer*
+ *Student | 11th Grade | Machine Learning Student | Fullstack AI Developer*
 
 ### ✏️ Technical Stack
 
@@ -13,7 +13,7 @@
 ---
 
 ## 👋 About Me
-I’m **Matias Nisperuza**, a developer from Colombia focused on the internal mechanics of intelligence. As the founder of **Biwa**, I specialize in building proprietary system architectures and advanced model orchestration logic.
+I’m **Matias Nisperuza**, a developer from Colombia focused on the internal mechanics of intelligence.
 
 I believe technical depth is driven by curiosity, not age. If a system exists, I want to understand its core—if it doesn't, I’ll build it.
 
