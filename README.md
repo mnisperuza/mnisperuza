@@ -1,53 +1,23 @@
 # Matias Nisperuza
- *Student | 11th Grade | Machine Learning Student | Fullstack AI Developer*
+ *Student | 11th Grade |
 
 ### ✏️ Technical Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 
 ---
 
 ## 👋 About Me
-I’m **Matias Nisperuza**, a developer from Colombia focused on the internal mechanics of intelligence.
-
-I believe technical depth is driven by curiosity, not age. If a system exists, I want to understand its core—if it doesn't, I’ll build it.
-
----
-
-## 🚀 Future Vision: My Dream
-My goal is to evolve into a **Fullstack Engineer and AI Developer**. I am working to bridge the gap between robust, scalable web architectures and the cutting-edge frontiers of Artificial Intelligence. I don't just want to use AI; I want to engineer the environments where it lives and thrives.
-
----
-
-the major project is Bert, see more in **Bert CLI**: [github.com/mnisperuza/bert-cli](https://github.com/mnisperuza/bert-cli)
-
-* **Status:** Active.
+I am an emerging developer and student researcher currently exploring the intersection of web architecture and neural mechanics. My work focuses on transitioning from theoretical AI concepts to practical, full-stack implementations.
 
 ---
 
 ## 🎓 Certifications & Qualifications
-
-### 🤖 AI & Technical
-**IBM:** Generative AI: Prompt Engineering Basics (Oct 2025) [[Certificate]](./Coursera_HYH527T4K83P.pdf)
-* **Google:** Machine Learning Crash Course (Foundational Concepts)
-
-### 🤝 Professional & Soft Skills
-**IBM:** Developing Interpersonal Skills (Oct 2025)  [[Certificate]](./Coursera_7WCB83WLF7VM.pdf)
-* **English Proficiency:** * EF SET 50-min — **C2 Proficient** [[Certificate]](./ef-set-C2.pdf)
-    * EF SET 90-min — **B2 Upper-Intermediate** [[Certificate]](./ef-set-B2.pdf)
-
----
-
-## ✏️ Technical Stack
-**AI/ML:** PyTorch, Transformers, Prompt Engineering, Custom AI Architectures.
-* **Languages:** Python (Advanced), HTML/CSS, JavaScript (Learning).
-* **Tools:** Git, GitHub, Flask, Kernel Logic.
-* **Design:** Adobe Illustrator, Blender, Krita.
+If you want to know more about my Qualifications, make sure to email me :
+* **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
 
 ---
 
@@ -57,12 +27,9 @@ the major project is Bert, see more in **Bert CLI**: [github.com/mnisperuza/bert
 
 **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
 
-**[github.com/mnisperuza/bert-cli](https://github.com/mnisperuza/bert-cli)** An always reliable AI service via CLI.
-
 ---
 
 ## 📬 Connect with Me
-* **Studio Email:** [biwaindustries@gmail.com](mailto:biwaindustries@gmail.com)
 * **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
 * **X (Twitter):** [@MatiasNispX](https://x.com/MatiasNispX)
 
