@@ -9,6 +9,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat&logo=huggingface&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
+<div style="display: inline-block; background-color: #A51C30; color: white; padding: 5px 12px; font-family: sans-serif; font-weight: bold; border-radius: 4px; font-size: 13px;">
+  CS50 • Harvard
+</div>
 
 
 ---
