@@ -17,7 +17,7 @@
 ---
 
 ##  About Me
-Hi there, my name is Matias Nisperuza, I am colombian student and suitor to  Data Scientist/Systems Engineer, I love building while I learn, specially in ML, I love working with LLM's and  Transformers library. When it comes to transformers. My favorite family of models is **Qwen-3**, developed by Alibaba, featuring a CoT for Small LM's.
+Hi there, my name is Matias Nisperuza, I am colombian student and suitor to  Data Scientist/Systems Engineer, I love building while I learn. When it comes to transformers. My favorite family of models is **Qwen-3**, developed by Alibaba, featuring a CoT for Small LM's.
 
 ---
 
