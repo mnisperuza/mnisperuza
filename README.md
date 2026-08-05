@@ -2,20 +2,22 @@
  *Student | 11th Grade |*
 
 ### ✏️ Technical Stack
->**Aspiring to Data Scientist** - Aspirante a Cientifico de Datos
+>**Aspiring to Data Scientist/ Systems Engineer** - Aspirante a Cientifico de Datos/ Ingeniero de Sistemas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Transformers](https://img.shields.io/badge/Transformers-yellow?style=flat&logo=huggingface&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
-[`🎓 CS50 In progress`](https://harvard.edu)
+[`🎓 CS50x - In progress`](https://cs50.harvard.edu/x/)
+[`🎓 FREECODECAMP- Responsive Web design certification - In progress`](https://www.freecodecamp.org/learn/responsive-web-design-v9)
 
 
 ---
 
 ##  About Me
-Hi there, my name is Matias Nisperuza, I am colombian student and suitor to  Data Scientist, I love building while I learn, specially in ML, I love working with LLM's and  Transformers library. My favorite family of models is **Qwen-3**, developed by Alibaba, featuring a CoT for Small LM's.
+Hi there, my name is Matias Nisperuza, I am colombian student and suitor to  Data Scientist/Systems Engineer, I love building while I learn, specially in ML, I love working with LLM's and  Transformers library. When it comes to transformers. My favorite family of models is **Qwen-3**, developed by Alibaba, featuring a CoT for Small LM's.
 
 ---
 
@@ -24,7 +26,7 @@ IBM- Developing Interpersonal Skills - [See certificate](https://coursera.org/sh
 
 IBM- Generative AI: Prompt engineering basics - [See certificate](https://coursera.org/share/08a06fabe4888c50c7bbc23701001875)
 
-Currently still learning in Coursera: **[Precalculus 1- Basic Notions](https://www.udemy.com/course/precalculus-1/)**, **[Full stack generative and Agentic AI with python](https://www.udemy.com/course/full-stack-ai-with-python/)**
+Currently still learning in Udemy: **[Precalculus 1- Basic Notions](https://www.udemy.com/course/precalculus-1/)**, **[Full stack generative and Agentic AI with python](https://www.udemy.com/course/full-stack-ai-with-python/)**
 
 If you want to know more about my qualifications, make sure to email me :
 * **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
@@ -33,14 +35,12 @@ If you want to know more about my qualifications, make sure to email me :
 
 ## 🧩 Personal Projects
 
-**[HCGK Kernels](https://github.com/mnisperuza/hcgk-kernels):** Independent kernel development projects focused on OOM failsafe and performance, install via PyPI.org with *pip install hcgk-kernel*.
-
 **[TinyGPT](https://github.com/mnisperuza/TinyGPT-Custom):** A lightweight GPT-style model focused on hyperparameter tuning and transformer mechanics.
 
 ---
 ## 👥 Contributions - Shared Repos 👥
 
-**[artelibre](https://github.com/jnisperuza/artelibre)** - **SENA** project, using Localwp (wordpress) to show the power of LLM's.
+**[artelibre](https://github.com/jnisperuza/artelibre)** - **SENA** project, using Localwp (wordpress) to show the power of LLM's within the web design in Wp.
 
 **[Orion](https://github.com/mnisperuza/Orion)** - **SENA** project managed by collegues.
 
@@ -48,6 +48,7 @@ If you want to know more about my qualifications, make sure to email me :
 
 ## 📬 Connect with Me
 * **Personal Email:** [mnisperuza1102@gmail.com](mailto:mnisperuza1102@gmail.com)
+* **StackOverflow:** [Mnisperuza](https://stackoverflow.com/users/32082825/mnisperuza)
 * **X (Twitter):** [@MatiasNispX](https://x.com/MatiasNispX)
 
 > Google Machine Learning Crash Course badge:
